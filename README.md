@@ -41,3 +41,5 @@ A lei prevê que os usuários (titulares dos dados, como os chamaremos) saibam, 
 - [x] Em caso de vazamento de dados o controlador deverá comunicar a Autoridade Nacional de Proteção de Dados (ANPD) e o titular sobre o incidente que possa acarretar risco ou dano relevante aos titulares.
 
 > Um modelo básico está anexado no repositório.
+
+![cartão obrigada]C:\Users\maril\OneDrive\Documentos\CursoGitHub\Marília Curi.jpg
