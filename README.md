@@ -42,4 +42,4 @@ A lei prevê que os usuários (titulares dos dados, como os chamaremos) saibam, 
 
 > Um modelo básico está anexado no repositório.
 
-![cartão obrigada]C:\Users\maril\OneDrive\Documentos\CursoGitHub\Marília Curi.jpg
+![cartão obrigada]C:\Users\maril\OneDrive\Documentos\CursoGitHub\MaríliaCuri.jpg
